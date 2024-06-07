@@ -51,17 +51,19 @@ python3 tic_tac_toe.py
 
 The game opens with a splash screen and then displays the game board.Players take turns clicking on the grid to place their X or O.The game will automatically detect a win or draw and reset after displaying the result.
 
-### Contributing
+## Contributing
 
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
+Contributions are welcome! Feel free to fork the repository and submit pull requests with your improvements and bug fixes.
 
-### License
+## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-### Acknowledgements
+## Disclaimer
 
-Thanks to the Pygame community for their excellent resources and tutorials.
+This game is for educational purposes and personal enjoyment. Ensure you have the appropriate rights to use the graphic and sound assets included in the game.
+
+---
 
 ### GitHub Repository Details
 
