@@ -8,19 +8,28 @@ Welcome to the Tic Tac Toe Game repository! This project is a modern implementat
 - **Win Detection:** The game automatically detects wins and highlights the winning line.
 - **Draw Detection:** The game detects when there is no possible winner and declares a draw.
 - **Easy Reset:** The game automatically resets after a short delay when a win or draw occurs.
-- **Sound Effects:** Enjoy sound effects during gameplay (Optional, add if sound is implemented).
 
 ## Screenshots
 
-![Game Opening](Screenshots/Tic Tac Toe_2.png)
-![In-game Screenshot](Screenshots/Tic Tac Toe_1.png)
-![In-game Screenshot](Screenshots/Tic Tac Toe_3.png)
+| ![Game Opening.jpg](https://github.com/anishvedant/Tic-Tac-Toe/blob/main/Screenshots/Tic%20Tac%20Toe_2.png) 
+|:--:| 
+| ***Game Opening*** |
+
+
+| ![In-game Screenshot.jpg](https://github.com/anishvedant/Tic-Tac-Toe/blob/main/Screenshots/Tic%20Tac%20Toe_1.png) 
+|:--:| 
+| ***In-game Screenshot*** |
+
+
+| ![In-game Screenshot.jpg](https://github.com/anishvedant/Tic-Tac-Toe/blob/main/Screenshots/Tic%20Tac%20Toe_1.png)
+|:--:| 
+| ***In-game Screenshot*** |
+
 
 ## Getting Started
 
 ### Prerequisites
 
-- Python 3.x
 - Pygame
 
 ### Installation
