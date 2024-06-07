@@ -12,8 +12,9 @@ Welcome to the Tic Tac Toe Game repository! This project is a modern implementat
 
 ## Screenshots
 
-![Game Opening](path_to_your_opening_image)
-![In-game Screenshot](path_to_in_game_screenshot)
+![Game Opening] (Screenshots/Tic Tac Toe_2.png)
+![In-game Screenshot](Screenshots/Tic Tac Toe_1.png)
+![In-game Screenshot](Screenshots/Tic Tac Toe_3.png)
 
 ## Getting Started
 
@@ -45,8 +46,21 @@ To start the game, simply run the `tic_tac_toe.py` script:
 ```bash
 python3 tic_tac_toe.py
 
-How to Play
-The game opens with a splash screen and then displays the game board.Players take turns clicking on the grid to place their X or O.The game will automatically detect a win or draw and reset after displaying the result.ContributingContributions are welcome! Please fork the repository and create a pull request with your changes.LicenseThis project is licensed under the MIT License.AcknowledgementsThanks to the Pygame community for their excellent resources and tutorials.
+### How to Play
+
+The game opens with a splash screen and then displays the game board.Players take turns clicking on the grid to place their X or O.The game will automatically detect a win or draw and reset after displaying the result.
+
+### Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
+### License
+
+This project is licensed under the MIT License.
+
+### Acknowledgements
+
+Thanks to the Pygame community for their excellent resources and tutorials.
 
 ### GitHub Repository Details
 
