@@ -64,16 +64,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 This game is for educational purposes and personal enjoyment. Ensure you have the appropriate rights to use the graphic and sound assets included in the game.
 
 ---
-
-### GitHub Repository Details
-
-**Description:**  
-A modern implementation of the classic Tic Tac Toe game built with Python and Pygame.
-
-**Website:**  
-*Enter a valid URL here, such as a personal portfolio or project page if available.*
-
-**Topics:**  
-python pygame game-development tic-tac-toe graphics interactive-game classic-game educational-project open-source
-
-Feel free to customize the URL and any other information according to your preferences.
