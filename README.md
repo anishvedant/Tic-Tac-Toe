@@ -45,6 +45,7 @@ Welcome to the Tic Tac Toe Game repository! This project is a modern implementat
 To start the game, simply run the `tic_tac_toe.py` script:
 ```bash
 python3 tic_tac_toe.py
+```
 
 ### How to Play
 
