@@ -12,7 +12,7 @@ Welcome to the Tic Tac Toe Game repository! This project is a modern implementat
 
 ## Screenshots
 
-![Game Opening] (Screenshots/Tic Tac Toe_2.png)
+![Game Opening](Screenshots/Tic Tac Toe_2.png)
 ![In-game Screenshot](Screenshots/Tic Tac Toe_1.png)
 ![In-game Screenshot](Screenshots/Tic Tac Toe_3.png)
 
@@ -49,7 +49,7 @@ python3 tic_tac_toe.py
 
 ### How to Play
 
-The game opens with a splash screen and then displays the game board.Players take turns clicking on the grid to place their X or O.The game will automatically detect a win or draw and reset after displaying the result.
+The game opens with a splash screen and then displays the game board. Players take turns clicking on the grid to place their X or O. The game will automatically detect a win or draw and reset after displaying the result.
 
 ## Contributing
 
